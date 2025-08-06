@@ -40,3 +40,10 @@ A Node.js-based weather application using Express and Handlebars (hbs). This app
 git clone https://github.com/yourusername/weather-app.git
 cd weather-app
 npm install
+```
+
+### Running Locally
+``` bash
+node src/app.js
+```
+
