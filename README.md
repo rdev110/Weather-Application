@@ -8,7 +8,6 @@ A Node.js-based weather application using Express and Handlebars (hbs). This app
 
 - 📍 Get weather forecast by address
 - ⚙️ Dynamic routing with Express
-- 🧰 Handlebars templating for rendering views
 - 🚧 Custom 404 error pages
 - 🗂️ Organized public/static directory
 - 🔧 Modular utility functions for geocoding and forecast retrieval
